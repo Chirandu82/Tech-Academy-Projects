@@ -1,1 +1,2 @@
 This is the first line of my VCCourse_Challenge_2 text file.
+This is the revised assignment.
